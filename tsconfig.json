@@ -1,0 +1,194 @@
+[
+  {
+    "Name": "Message1",
+    "id": "1",
+    "Time": "4",
+    "msgArray": [
+      "Message 1 row 1",
+      "Message 1 row 2",
+      "Message 1 row 3",
+      "Message 1 row 4"
+
+    ],
+    "pictureArray": [
+      "images/1.jpg",
+      "images/2.jpg"
+    ],
+    "messageTime": {
+      "fromDate": "2016-01-01",
+      "toDate": "2017-01-01",
+      "daysToShow": [
+       "2"
+      ],
+      "TimeShowFrom": "6",
+      "TimeShowUntil": "12",
+      "SecondsToShow": "2",
+      "hyperText": "./templateA.html",
+      "screenToShow": [
+        "1",
+        "2"
+      ]
+    }
+  },
+
+  {
+    "Name": "Message1",
+    "id": "1",
+    "Time": "4",
+    "msgArray": [
+      "Message 1 row 1",
+      "Message 1 row 2",
+      "Message 1 row 3",
+      "Message 1 row 4"
+
+    ],
+    "pictureArray": [
+      "images/1.jpg",
+      "images/2.jpg"
+    ],
+    "messageTime": {
+      "fromDate": "2016-01-01",
+      "toDate": "2017-01-01",
+      "daysToShow": [
+        "4"
+      ],
+      "TimeShowFrom": "13",
+      "TimeShowUntil": "20",
+      "SecondsToShow": "2",
+      "hyperText": "./templateA.html",
+      "screenToShow": [
+        "1",
+        "2"
+      ]
+    }
+  },
+
+  {
+    "Name": "Message2",
+    "id": "2",
+    "Time": "4",
+    "msgArray": [
+      "Message 2 row 1",
+      "Message 2 row 2",
+      "Message 2 row 3",
+      "Message 2 row 4",
+      "Message 2 row 5",
+      "Message 2 row 6",
+      "Message 2 row 7",
+      "Message 2 row 8",
+      "Message 2 row 9",
+      "Message 2 row 10"
+
+    ],
+    "pictureArray": [
+      "images/2.jpg"
+    ],
+    "messageTime": {
+      "fromDate": "2016-03-01",
+      "toDate": "2017-04-01",
+      "daysToShow": [
+        "2",
+        "4"
+      ],
+      "TimeShowFrom": "10",
+      "TimeShowUntil": "16",
+      "SecondsToShow": "2",
+      "hyperText": "./templateB.html",
+      "screenToShow": [
+        "1",
+        "3"
+      ]
+    }
+  },
+
+  {
+    "Name": "Message3",
+    "id": "3",
+    "Time": "4",
+    "messageTime": {
+      "fromDate": "2016-05-01",
+      "toDate": "2017-05-15",
+      "daysToShow": [
+        "1",
+        "2",
+        "4",
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "TimeShowFrom": "8",
+      "TimeShowUntil": "22",
+      "SecondsToShow": "2",
+      "hyperText": "./templateC.html",
+      "screenToShow": [
+        "2",
+        "3"
+      ]
+    }
+  },
+
+  {
+    "Name": "Message4",
+    "id": "4",
+    "Time": "4",
+    "msgArray": [
+      "Message 2 row 1",
+      "Message 2 row 2",
+
+
+    ],
+    "messageTime": {
+      "fromDate": "2016-03-29",
+      "toDate": "2017-04-15",
+      "daysToShow": [
+        "2"
+      ],
+      "TimeShowFrom": "15",
+      "TimeShowUntil": "19",
+      "SecondsToShow": "2",
+      "hyperText": "./templateA.html",
+      "screenToShow": [
+        "1"
+      ]
+    }
+  },
+
+  {
+    "Name": "Message5",
+    "id": "5",
+    "Time": "4",
+    "msgArray": [
+      "Message 2 row 1",
+      "Message 2 row 2",
+      "Message 2 row 3",
+      "Message 2 row 4",
+      "Message 2 row 5",
+      "Message 2 row 6",
+      "Message 2 row 7"
+
+    ],
+    "pictureArray": [
+      "images/1.jpg",
+      "images/2.jpg"
+    ],
+    "messageTime": {
+      "fromDate": "2016-04-01",
+      "toDate": "2017-04-30",
+      "daysToShow": [
+        "2",
+        "3",
+        "4"
+      ],
+      "TimeShowFrom": "1",
+      "TimeShowUntil": "23",
+      "SecondsToShow": "2",
+      "hyperText": "./templateB.html",
+      "screenToShow": [
+        "3"
+      ]
+    }
+  }
+
+]
+
